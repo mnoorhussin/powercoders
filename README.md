@@ -55,3 +55,12 @@ to see my stuff [Click here](https://www.markdownguide.org) and be happy   -inli
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
+
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
